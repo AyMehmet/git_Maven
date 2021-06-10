@@ -4,5 +4,7 @@ public class hello_test {
 
         System.out.println("hello");
         System.out.println("first add");
+        System.out.println("second add");
+
     }
 }
